@@ -1,0 +1,22 @@
+[
+  {
+    "name": "SESSION_ID",
+    "value": "abc123xyz456",
+    "domain": ".now.gg",
+    "path": "/",
+    "expires": 1750000000,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "auth_token",
+    "value": "long-auth-token-here",
+    "domain": ".now.gg",
+    "path": "/",
+    "expires": 1750000000,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Strict"
+  }
+]
